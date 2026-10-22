@@ -1,0 +1,7 @@
+{
+  "name": "payment-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "쇼핑몰 결제 서비스 껍데기 (Backstage 강의용 예시)",
+  "scripts": { "start": "node src/server.js" }
+}

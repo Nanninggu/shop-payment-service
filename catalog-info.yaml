@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: payment-service
+  description: 결제를 처리하는 서비스
+spec:
+  type: service
+  lifecycle: production
+  owner: guests
